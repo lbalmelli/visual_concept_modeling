@@ -1,5 +1,5 @@
 #  Easy Chat
-###
+### Raquel Hoffman
 
 This model represents the Easy Chat product, a real-time translator used between
 two or more persons (speaker and listener(s)). The originality of this product is the dynamic

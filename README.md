@@ -1,6 +1,6 @@
 #  Selection of Product Concept Models
 ### A free set of SysML models created using the Visual Concept Modeling method
-<img src="https://github.com/lbalmelli/visual_concept_modeling/blob/main/keio.png" width="20%" height="20%"/><img src="https://github.com/lbalmelli/visual_concept_modeling/blob/main/SDMtext.png" width="40%" height="40%"/>
+<img src="https://github.com/lbalmelli/visual_concept_modeling/blob/main/keio.png" width="20%" height="20%"/><img src="https://github.com/lbalmelli/visual_concept_modeling/blob/main/SDMtext.png" width="30%" height="30%"/>
 
 This repository contains a selection of interesting product conceptual models that were build by students using the visual conceptual modeling approach taught at Keio University (Nishimura/Teshima/Balmelli) in Tokyo Japan. All the models and the ideas that they convey are open source and free to reuse, modify and reproduce under the terms of the MIT license attached to this project.
 
@@ -12,6 +12,8 @@ You can use the methodology with the following tools and the plug-in in the dire
 
 
 We have gathered all the articles in relation with this class [under this Medium publication](https://medium.com/model-driven-conceptual-design). Please follow this publication to support our research and in order to receive a notification when we post new articles. 
+
+<img src="https://github.com/lbalmelli/visual_concept_modeling/blob/main/medium.png" width="100%" height="100%"/>
 
 Every year, we select a series of the best models stemming from the students' inspiration. With each model comes a report that was automatically generated from the model based on the information captured within it and the model itself in XML format. You can generate the report using the report templates in the directory.
 

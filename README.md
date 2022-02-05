@@ -1,6 +1,6 @@
 #  Selection of Product Concept Models
 ### A free set of SysML models created using the Visual Concept Modeling method
-![alt text](https://github.com/lbalmelli/visual_concept_modeling/main/keio.png?raw=true)
+![alt text](https://github.com/lbalmelli/visual_concept_modeling/blob/main/keio.png?raw=true)
 This repository contains a selection of interesting product conceptual models that were build by students using the visual conceptual modeling approach taught at Keio University (Nishimura/Teshima/Balmelli) in Tokyo Japan. All the models and the ideas that they convey are open source and free to reuse, modify and reproduce under the terms of the MIT license attached to this project.
 
 The conceptual models for products that were created during the class on Model-Driven Conceptual Modeling taught at Keio University. The class is taught every year by Profs. [Nishimura](http://www.sdm.keio.ac.jp/en/voices/nishimura.html) and [Balmelli](https://www.linkedin.com/in/balmelli/), with the assistance of [Takaaki Teshima](https://github.com/takaakit).

@@ -6,7 +6,7 @@ This repository contains a selection of interesting product conceptual models th
 
 The conceptual models for products that were created during the class on Model-Driven Conceptual Modeling taught at the System Design and Management Graduate School. The class is taught every year by Profs. [Nishimura](http://www.sdm.keio.ac.jp/en/voices/nishimura.html) and [Balmelli](https://www.linkedin.com/in/balmelli/), with the assistance of [Takaaki Teshima](https://github.com/takaakit).
 
-The methodology used to create the models is the _Visual Concept Modeling_ approach, that is introduced in a series of articles available on the medium platform. The methodology uses the SysML language as a mechanism to capture the characteristics of the conceptual product at different levels of abstraction prescribed by the methodology.
+The methodology used to create the models is the _Visual Concept Modeling_ approach, that is introduced in [a series of articles available on the Medium platform](https://medium.com/model-driven-conceptual-design). The methodology uses the SysML language as a mechanism to capture the characteristics of the conceptual product at different levels of abstraction prescribed by the methodology.
 
 You can use the methodology with the following tools and the plug-in in the directory. 
 

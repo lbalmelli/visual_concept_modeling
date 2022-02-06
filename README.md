@@ -4,14 +4,14 @@
 
 This repository contains a selection of interesting product conceptual models that were build by students using the visual conceptual modeling approach taught at the System Design and Management Graduate School in Keio University (Nishimura/Teshima/Balmelli) in Tokyo Japan. All the models and the ideas that they convey are open source and free to reuse, modify and reproduce under the terms of the MIT license attached to this project.
 
-The conceptual models for products that were created during the class on Model-Driven Conceptual Modeling taught at the System Design and Management Graduate School. The class is taught every year by Profs. [Nishimura](http://www.sdm.keio.ac.jp/en/voices/nishimura.html) and [Balmelli](https://www.linkedin.com/in/balmelli/), with the assistance of [Takaaki Teshima](https://github.com/takaakit).
+The conceptual models for products that were created during the class on Model-Driven Conceptual Modeling taught at the System Design and Management Graduate School. The class is taught every year by Profs. [Nishimura](http://www.sdm.keio.ac.jp/en/voices/nishimura.html){:target="_blank"} and [Balmelli](https://www.linkedin.com/in/balmelli/){:target="_blank"}, with the assistance of [Takaaki Teshima](https://github.com/takaakit){:target="_blank"}.
 
-The methodology used to create the models is the _Visual Concept Modeling_ approach, that is introduced in [a series of articles available on the Medium platform](https://medium.com/model-driven-conceptual-design). The methodology uses the SysML language as a mechanism to capture the characteristics of the conceptual product at different levels of abstraction prescribed by the methodology.
+The methodology used to create the models is the _Visual Concept Modeling_ approach, that is introduced in [a series of articles available on the Medium platform](https://medium.com/model-driven-conceptual-design){:target="_blank"}. The methodology uses the SysML language as a mechanism to capture the characteristics of the conceptual product at different levels of abstraction prescribed by the methodology.
 
 You can use the methodology with the following tools and the plug-in in the directory. 
 
 
-We have gathered all the articles in relation with this class [under this Medium publication](https://medium.com/model-driven-conceptual-design). Please follow this publication to support our research and in order to receive a notification when we post new articles. 
+We have gathered all the articles in relation with this class [under this Medium publication](https://medium.com/model-driven-conceptual-design){:target="_blank"}. Please follow this publication to support our research and in order to receive a notification when we post new articles. 
 
 <img src="https://github.com/lbalmelli/visual_concept_modeling/blob/main/medium.png" width="100%" height="100%"/>
 

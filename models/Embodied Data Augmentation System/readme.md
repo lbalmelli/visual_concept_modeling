@@ -1,4 +1,4 @@
-##Embodied Data Augmentation System
+## Embodied Data Augmentation System
 
 This model serves the purpose of envisioning the (1) conceptualisation and (2) actualisation process (i.e. prototyping) of a product to be used to test a hypothesis for academic research. The main concept of this product is meant to capture, convert and feedback physiological data back to the user, in which case:
 -	"Embodied Data" refers to physiological data from the human body captured by a wearable device.

@@ -1,0 +1,3 @@
+## Digital shopping list
+
+This model represent the conceptual design of a digital shopping were users can ether manually on a tablet or via an app. In an home with multiple students, it becomes difficult to know what products the households need, who eats at home and to bill other users when you do groceries. This model has the function of adding products, changing notes, bill other users. All these different functions will be presented on a tablet or on an app of the smartphone of the user. This concept model contains an use case diagram, with all the functions. But also a BDD and IDB to furthermore explain the parts of the model.

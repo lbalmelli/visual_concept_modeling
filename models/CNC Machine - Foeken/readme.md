@@ -1,1 +1,1 @@
-
+This document lines out the model of a modern 3-axis CNC machine. The model adds modernized components to the conventional CNC machine, whilst prioritizing the safety of the user and all bystanders while the machine is in use. Using feed forward and feedback models, the machine aims a sub-millimeter precision.
